@@ -1,3 +1,8 @@
+---
+name: eval-harness
+description: Use this skill when defining expected behavior before implementation, measuring whether a change actually worked, or guarding against regressions in AI-assisted work. Provides eval-driven development structure: capability and regression evals, grader types, and pass@k reliability metrics.
+---
+
 # Eval Harness Skill
 
 A formal evaluation framework for Claude Code sessions, implementing eval-driven development (EDD) principles.

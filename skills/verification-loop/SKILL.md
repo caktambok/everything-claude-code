@@ -1,3 +1,8 @@
+---
+name: verification-loop
+description: Use this skill after completing a feature, before opening a PR, or after refactoring, to run quality gates in order. Walks build, type check, lint, tests, and manual verification as sequential phases that stop on the first failure.
+---
+
 # Verification Loop Skill
 
 A comprehensive verification system for Claude Code sessions.

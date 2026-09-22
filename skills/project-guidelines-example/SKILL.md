@@ -1,3 +1,8 @@
+---
+name: project-guidelines-example
+description: Reference template showing how to write a project-specific skill: architecture overview, file structure, code patterns, testing requirements, and deployment workflow. Use only when authoring a new project guidelines skill, not as guidance for the current project.
+---
+
 # Project Guidelines Skill (Example)
 
 This is an example of a project-specific skill. Use this as a template for your own projects.
